@@ -9,9 +9,6 @@
 
    centos
    epel
-   debian
-   debian-security
-   debian-cd
    fedora
    kali
    linuxmint
@@ -21,12 +18,4 @@
    ubuntu-releases
    ubuntu-cdimage
    ubuntu-cloud-images
-
-语言镜像
---------
-
-.. toctree::
-   :maxdepth: 1
-
-   rubygems
 
